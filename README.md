@@ -1,17 +1,32 @@
-## Привет, меня зовут Ярослав!
-###Начинающий python разработчик
-🔹 **Мой стек:**  
-- Python (Django, Flask)  
-- SQL (PostgreSQL, SQLite)  
-- Git, Docker (базовый уровень)
+# Hi, I'm a C++ Developer in Progress 👋
 
-🔹 **Мои проекты:**  
-[To-Do менеджер](https://gist.github.com/baulorn/4b1859f29fcff2e2d5e0158698f4aeff) — консольное приложение для управления задачами
-[Парсер курса валют](https://gist.github.com/baulorn/00aaf2a9ba2be4bc22487db7fc6eda6d) — работа с API ЦБ РФ 
-[Скачка видео с YouTube] (https://gist.github.com/baulorn/cba386fea07ae7d5ee6e2852d293ed4c) - скрипт для скачивания видео с YouTube
-[Арифметическая игра](https://gist.github.com/baulorn/d50cf7170840a14896c7a9a49d94481e)
+I'm learning C++ and working towards becoming a professional software developer. I enjoy solving problems, understanding how things work under the hood, and building projects step by step.
 
-📫 **Свяжитесь со мной:**  
-[![Telegram] (https://t.me/baulorn)
-[![Email] (4g4g2012@gmail.com)
+## 🛠️ Tech Stack
+
+- **Language:** C++
+- **Tools:** Visual Studio Code, GCC / MinGW
+- **Currently learning:** Control flow, loops, strings, and basic algorithms
+- **Version control:** Git & GitHub
+
+## 🚀 Projects
+
+### Elven Manuscript
+A text-based fantasy RPG built with C++. I'm developing it step by step as I learn new programming concepts.
+
+### C++ Learning Projects
+Small console applications and algorithmic exercises created to practice C++ fundamentals and improve problem-solving skills.
+
+## 🎯 Goals
+
+- Build a strong foundation in modern C++
+- Write clean, readable, and reliable code
+- Develop personal projects and expand my portfolio
+- Explore open-source contributions
+- Pursue a career in C++ development
+
+---
+
+*Learning by building, one step at a time.*
+
 
