@@ -21,6 +21,10 @@ A personal text-based fantasy RPG project planned around the story and world tha
 
 I practise problem-solving with C++ through algorithmic tasks, including tasks from Yandex Contest assessments. This is independent practice and does not represent employment or an internship at Yandex.
 
+### Solutions
+
+- [Dino Invitation — Multi-source BFS](./algorithmic-practice/dino-invitation-bfs/) — grid traversal, simultaneous spread from multiple starting points, shortest distances, and unreachable cells.
+
 Topics I have worked with:
 
 - **Grid traversal and BFS:** exploring a two-dimensional grid and finding reachable cells using a queue.
